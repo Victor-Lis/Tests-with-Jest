@@ -2,11 +2,15 @@
 - Idealizado por [Nathally Souza](https://github.com/nathyts)
 - Construido por [@Victor Lis](https://www.linkedin.com/in/victor-lis-bronzo)
 
+<br>
+
 ## Projeto desenvolvido com React
 Projeto desenvolvido dentro da trilha [FullStack TypeScript](https://web.dio.me/track/formacao-typescript-fullstack-developer) da DIO.
 
 ### Tecnologias
 - Typescript
+
+<br>
 
 ### Como rodar o projeto
 
@@ -21,6 +25,8 @@ npm install
 ```
 npm start
 ```
+
+<br>
 
 #### Desafios
 [ X ] Crie os componentes referentes aos elementos na página inicial

@@ -2,7 +2,7 @@
 - Idealizado por [Nathally Souza](https://github.com/nathyts)
 - Construido por [@Victor Lis](https://www.linkedin.com/in/victor-lis-bronzo)
 
-#### Projeto desenvolvido com React
+## Projeto desenvolvido com React
 Projeto desenvolvido dentro da trilha [FullStack TypeScript](https://web.dio.me/track/formacao-typescript-fullstack-developer) da DIO.
 
 ### Tecnologias
@@ -14,12 +14,12 @@ Projeto desenvolvido dentro da trilha [FullStack TypeScript](https://web.dio.me/
 
 2 - Instale as dependeências
 ```    
-    npm install
+npm install
 ```
 
 3 - Execute o projeto
 ```
-    npm start
+npm start
 ```
 
 #### Desafios
